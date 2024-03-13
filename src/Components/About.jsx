@@ -12,7 +12,7 @@ const About = () => {
         Im a passionate woman in tech, dedicated to exploring the endless possibilities that the tech industry offers. My journey began with a deep curiosity and eagerness to learn, leading me to pursue a career in software development.
       </p>
       <p>
-        With my background in [your previous field], Ive honed skills like [mention relevant skills], which I believe are invaluable in the world of software engineering. However, my desire to contribute to innovative solutions in technology has driven me to make a full-time transition to software development.
+        With my background in SWE, Ive honed skills like JavaScript, which I believe are invaluable in the world of software engineering. However, my desire to contribute to innovative solutions in technology has driven me to make a full-time transition to software development.
       </p>
       <p>
         Im enthusiastic about the opportunities ahead, eager to dive deeper into the world of software development, and committed to continuous learning and growth. I strongly believe in the power of diversity and inclusion for driving innovation, and as a woman in tech, Im dedicated to being a catalyst for positive change.
