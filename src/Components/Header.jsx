@@ -22,7 +22,7 @@ const Header = () => {
 
   return (
     <header className="header">
-      <h1>Chanel Scivens</h1>
+      <h1>Chanel Scrivens</h1>
     </header>
   );
 };
